@@ -1,13 +1,13 @@
-❖ Online Banking Automation Project
+❖ Online Banking Automation Project:
 
 This is a complete automated testing project for the [ParaBank](https://parabank.parasoft.com/parabank/index.htm) online banking demo website. The project uses **Selenium WebDriver** with **TestNG** following the **Page Object Model (POM)** design pattern.
 
 
-❖ Project Description
+❖ Project Description:
 
 This automation project simulates user interactions on ParaBank to validate core banking functionalities like login, opening accounts, transferring funds, and bill payments.
 
-❖ Features Tested
+❖ Features Tested:
 
 Test Case , Description , Status
 
@@ -22,7 +22,7 @@ Transfer Funds , Transfers funds between two accounts , pass
 Bill Payment , fill bill payment form & confirm transaction , pass
 
 
-❖ Tools & Technologies
+❖ Tools & Technologies:
 
 - Java 23
 - Selenium WebDriver 4.20.0
@@ -31,7 +31,7 @@ Bill Payment , fill bill payment form & confirm transaction , pass
 - IntelliJ IDEA 2024.3.1.1
 - Git & GitHub
 
-❖ Project Structure
+❖ Project Structure:
 
 OnlineBankingAuto
 
@@ -56,7 +56,7 @@ OnlineBankingAuto
 └── LoginTest.java
 
 
-❖ How to Run
+❖ How to Run:
 
 1. Clone the repository: git clone https://github.com/alaa8530/OnlineBankingAuto.git
 2. Open in IntelliJ IDEA.
@@ -67,15 +67,15 @@ OnlineBankingAuto
 
    ❖ Or directly from the `Login Test` class
 
-• Screenshots / Results
+• Screenshots / Results:
 
 All test cases were executed successfully. You can find the detailed report and screenshots in the attached Excel report and logs.
 
-• Author
+• Author:
 
 Alaa Ashraf
 [alaa.ashraf8530@gmail.com](mail to:alaa.ashraf8530@gmail.com)
 
-• Repository Link
+• Repository Link:
 
 [GitHub Repository](https://github.com/alaa8530/OnlineBankingAuto)
